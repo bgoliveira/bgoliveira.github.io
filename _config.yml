@@ -30,7 +30,7 @@ twitter_username: bgoliveira
 github_username:  bgoliveira
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
